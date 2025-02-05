@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\QA_Assignmet2\\Assignment2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2C04EBC-ACAD-47CD-BACC-0FB38B01D5F2}|Assignment2.csproj|c:\\qa_assignmet2\\assignment2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C04EBC-ACAD-47CD-BACC-0FB38B01D5F2}|Assignment2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2C04EBC-ACAD-47CD-BACC-0FB38B01D5F2}|Assignment2.csproj|c:\\qa_assignmet2\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C04EBC-ACAD-47CD-BACC-0FB38B01D5F2}|Assignment2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\QA_Assignmet2\\Assignment2\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\QA_Assignmet2\\Assignment2\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:51:58.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\QA_Assignmet2\\Assignment2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
